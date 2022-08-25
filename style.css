@@ -1,2 +1,45 @@
-   body{ 
-    background                                                                  }
+ body{
+
+ }
+
+ #banner {
+    width: 100%;
+ }
+
+,principal {
+    background: #CCCCCC;
+}
+
+
+ h1 {
+      text-align: center;
+      color: purple;
+}
+
+p {
+   text-align: center; 
+}
+
+#missao {
+     font-size: italic;
+}
+
+em strong {
+    color: red;
+}
+,itens {
+    font-style: italic;
+}
+
+,beneficícios {
+    background: #FFF;
+}
+
+h2{
+    text-align: center; 
+    color: purple;
+}
+
+.imagembenefícios {
+    width: 50%;
+}
